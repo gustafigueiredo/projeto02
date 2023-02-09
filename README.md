@@ -1,3 +1,3 @@
 # projeto02
 
-Site responsive
+Site responsivo
